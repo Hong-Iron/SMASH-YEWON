@@ -1,0 +1,50 @@
+{
+  "code": "YEWON",
+  "title": "SMASH YEWON",
+  "school": "예원예대",
+  "fullName": "예원예술대학교",
+  "campusName": "예원예술대학교",
+  "tagline": "예원예대를 부셔 (시험기간 스트레스 해소)",
+  "description": "예원예술대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 예원예술대학교 3D 화면과 SMASH YEWON 제목",
+  "url": "https://hong-iron.github.io/SMASH-YEWON/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "circle",
+    "center": "35.64678,127.26994,220"
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.647314,
+        127.2700902
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 1955년에 지은 단독주택으로 등록된 옛 기록이고, 항공사진에서는 그 자리에 건물 없이 마을 집 남쪽 빈 땅만 보여 학교 건물이 아닙니다."
+    },
+    {
+      "at": [
+        35.6466718,
+        127.2704225
+      ],
+      "n": "예원예술학교",
+      "why": "항공사진에 없음 — 4번 건물 서쪽 끝 남쪽의 숲 비탈에 그려진 칸인데, 항공사진에는 지붕이 없고 나무와 비탈만 보입니다(등록 기록도 층수만 있고 면적과 사용승인일이 없습니다)."
+    },
+    {
+      "at": [
+        35.6468967,
+        127.2709492
+      ],
+      "n": "예원예술학교",
+      "why": "항공사진에 없음 — 4번 건물 남쪽으로 약 14m 떨어진 숲 비탈에 그려진 칸인데, 항공사진에는 지붕 없이 나무만 보입니다(4번과 겹치지는 않고, 등록 기록도 층수만 있습니다)."
+    }
+  ]
+}
