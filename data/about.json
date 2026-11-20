@@ -1,0 +1,34 @@
+{
+ "region": "전북 임실군 신평면",
+ "nameEn": "Yewon Arts University",
+ "added": "2026-11-01T02:27",
+ "rank": 310,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "JNUE",
+   "campus": "전주교육대학교",
+   "km": 20.7
+  },
+  {
+   "code": "JJU",
+   "campus": "전주대학교",
+   "km": 24.7
+  },
+  {
+   "code": "JBNU",
+   "campus": "전북대학교 전주캠퍼스",
+   "km": 25.3
+  },
+  {
+   "code": "KNUAF",
+   "campus": "국립한국농수산대학교",
+   "km": 27.3
+  },
+  {
+   "code": "WOOSUK",
+   "campus": "우석대학교 전주캠퍼스",
+   "km": 34.9
+  }
+ ]
+}
